@@ -7,7 +7,9 @@
   }
  ]
  "newdocs":[
-  { 
+  {
+  "title":"new doc1",
+  "password": "123"
 } 
   ]
 }
