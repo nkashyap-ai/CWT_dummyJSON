@@ -1,16 +1,9 @@
 {
 "mydocs":[
   {
-  "id":1,
   "success":true,
   "docs":"Novnit",
   "owner":"nkashyap"
-},
-{
-  "id":2,
-  "success":true,
-  "docs":"Mary",
-  "owner":"nkashyap"
-}
-  ]
+  }
+ ]
 }
